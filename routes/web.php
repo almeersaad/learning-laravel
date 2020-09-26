@@ -26,5 +26,7 @@ return  'welcomedfd';
 });
 
 Route::get ('contact' , function(){
-    return 'this this the second URL';
+    return 'this is the second URL';
 });
+
+
